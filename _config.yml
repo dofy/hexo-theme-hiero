@@ -27,12 +27,12 @@ avatar:
   width: 124
   height: 124
   bottom: 10
-  url: https://hexo.io/logo.svg
+  url: https://phpz.mobi/images/logo.png
 
 
 # AboutPage background
 about_big_image: [/images/banner_003.jpg]
-#about_big_image: [/images/banner_003.jpg, https://source.unsplash.com/collection/954550/1920x1200]
+# about_big_image: [/images/banner_003.jpg, https://source.unsplash.com/collection/954550/1920x1200]
 
 
 # Homepage thumbnail
@@ -152,4 +152,4 @@ donate:
 # Automatic page load progress bar by PACE.js
 progressBar:
   enable: true #switch
-  themeCSS: https://github.com/HubSpot/pace/raw/master/themes/orange/pace-theme-flash.css    #PATH to PACE theme CSS, support relative / absolute path
+  themeCSS: css/pace.css
