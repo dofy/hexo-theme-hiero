@@ -17,7 +17,7 @@ since: 2017
 keywords: ""
 
 # Put your favicon.ico into `hexo-site/themes/hiero/source/` directory.
-favicon: /favicon.ico
+favicon: favicon.ico
 
 
 # Put your avatar.jpg into `hexo-site/themes/hiero/source/` directory.
@@ -31,7 +31,7 @@ avatar:
 
 
 # AboutPage background
-about_big_image: [/images/banner_003.jpg]
+about_big_image: [images/banner_003.jpg]
 # about_big_image: [/images/banner_003.jpg, https://source.unsplash.com/collection/954550/1920x1200]
 
 
@@ -98,7 +98,7 @@ gitment:
 # Available value:
 #    default | normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: default
+highlight_theme: night eighties
 
 
 
