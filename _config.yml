@@ -120,7 +120,7 @@ baidu_site_verification:
 qihu_site_verification:
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-88258326-4
 gauges_analytics:
 baidu_analytics:
 tencent_analytics:
